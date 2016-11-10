@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "cn.edu.xjtlu.iceapp"
         versionCode = "2015"
-        version   = "2.0.1">
+        version   = "2.0.2">
     <name>ICE @ XJTLU</name>
 
     <description>
